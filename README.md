@@ -3,6 +3,7 @@ working RAG ai agent which can access a csv database, using pandas and chroma to
 to make venv: python -m venv venv
 
 source venv/bin/activate to enter virtual environment
-p install -r requirements.txt to download all addons.
+
+pip install -r requirements.txt to download all addons.
 
 deactivate to leave venv
